@@ -1,0 +1,15 @@
+.header {
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.logo {
+  font-size: 24px;
+}
+
+.cart {
+  width: 24px;
+}
